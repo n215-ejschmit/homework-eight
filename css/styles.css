@@ -30,7 +30,7 @@ a {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  height: 98px;
+  height: 96px;
 }
 .navHolder .title {
   border-bottom-color: white;
@@ -54,7 +54,7 @@ a {
 }
 
 .hero {
-  max-height: calc(100% - 98px);
+  max-height: calc(100% - 96px);
   max-width: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/sidekix-media-WgkA3CSFrjc-unsplash.jpg);
   background-position: cover;
@@ -110,11 +110,11 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-height: 98%;
+  max-height: calc(100% - 96px);
 }
 .about .left {
   width: 50%;
-  height: 840px;
+  height: 837px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/spacejoy-LhOJl195TWc-unsplash.jpg);
   background-size: cover;
 }
@@ -137,11 +137,11 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-height: 98%;
+  max-height: calc(100% - 90px);
 }
 .blog .left {
   width: 50%;
-  height: 840px;
+  height: 837px;
   background-color: #707070;
   display: flex;
   align-items: center;
@@ -191,7 +191,7 @@ a {
 }
 .contact .left {
   width: 50%;
-  height: 840px;
+  height: 837px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/pexels-cup-of-couple-6177573.jpg);
   background-size: cover;
   background-position: center;

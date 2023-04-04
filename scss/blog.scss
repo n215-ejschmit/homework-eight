@@ -2,10 +2,10 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-height: 98%;
+  max-height: calc(100% - 90px);
   .left {
     width: 50%;
-    height: 840px;
+    height: 837px;
     background-color: #707070;
     display: flex;
     align-items: center;
