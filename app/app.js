@@ -76,14 +76,6 @@ var contactBody = `<div class="contact">
 </div>`;
 
 
-//Did I say I was gonna study web? I LIED//
-
-//I think I would rather eat shards of broken glass rather than spend FOUR HOURS looking at the SAME ERROR BUT THAT'S WHAT I DID AND IT STILL WON'T WORK -11:45 PM//
-
-//HOW IS BODY NOT DEFINED, I THOUGHT I MADE IT A STRING -1:40 AM//
-
-//NEW ERROR TIME -2:08 AM//
-
 function initListeners(){
 
   $("nav a").on("click", function(e){
